@@ -3,7 +3,7 @@
 #### 1. Equipo Desarrollo 
 | Developer | Rama | Rol | Fecha Incorporación | Proyecto | Versión |
 | --- | :---:  | :---:  | :---:  | :---: | :---:  |
-| Estefania Colombo Rosario | Master / Dev1 | Project Manager | 20/02/2021 |   | 1.0  |
+| Estefania Colombo Rosario | Master / Dev1 | Project Manager | 28/02/2021 |   | 1.0  |
 
 #### 2. Link a un demo con el proyecto desplegado:
 ```
